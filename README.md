@@ -1,5 +1,9 @@
 # Classivo - Frontend
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" />
+</p>
+
 A modern notification and announcement management system for organizations.
 
 ## Tech Stack
